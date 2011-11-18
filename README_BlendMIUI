@@ -4,5 +4,6 @@ kernel configs for BlendMIUI:
 
 Xperia arc => miui_anzu_defconfig
 Xperia neo => miui_hallon_defconfig
+Xperia ray => miui_urushi_defconfig
 
 
