@@ -1,6 +1,6 @@
 Configuration files can be found in arch/arm/configs.
 
-configs for BlendMIUI kernel:
+kernel configs for BlendMIUI:
 
 Xperia arc => miui_anzu_defconfig
 Xperia neo => miui_hallon_defconfig
